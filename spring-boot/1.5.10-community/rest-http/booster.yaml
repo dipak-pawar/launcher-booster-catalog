@@ -2,7 +2,7 @@ name: Spring Boot - HTTP Example
 description: Quickstart to expose a HTTP Greeting endpoint using Spring Boot and Apache Tomcat in embedded mode
 source:
   git:
-    url: https://github.com/snowdrop/spring-boot-http-booster
-    ref: 1.5.10-4
+    url: https://github.com/dipak-pawar/ftest-openshift-fabric8-maven-plugin
+    ref: master
 metadata:
   worksWithLegacyOsio: true
